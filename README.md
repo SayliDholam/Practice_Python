@@ -10,7 +10,7 @@ TABLE OF CONTENTS <br>
 3. Lists <br>
 4. Conditional Statements (if-else & ladder) <br>
 5. Functions <br>
-6 .MySQL Connection <br>
+6. MySQL Connection <br>
 
 <br><br>
 Basic Arithmetic Operations <br>
