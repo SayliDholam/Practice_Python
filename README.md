@@ -15,6 +15,7 @@ MySQL Connection <br>
 <br><br>
 Basic Arithmetic Operations <br>
 Python supports all basic arithmetic operations including addition, subtraction, multiplication, and division. <br>
+<a href="https://docs.python.org/3/library/stdtypes.html">arithmetic operations in python</a><br>
 <br>
 Loops<br>
 Python provides several loop constructs, including for and while loops.<br> 
