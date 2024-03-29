@@ -4,10 +4,9 @@ Welcome to my Practice_Python GitHub repository! This guide is designed to help 
 
 
 TABLE OF CONTENTS
-
-Basic Arithmetic Operations
-Loops
-Lists
-Conditional Statements (if-else & ladder)
-Functions
-MySQL Connection
+ Basic Arithmetic Operations
+ Loops
+ Lists
+ Conditional Statements (if-else & ladder)
+ Functions
+ MySQL Connection
